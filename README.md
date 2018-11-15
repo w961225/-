@@ -1,4 +1,4 @@
-
+How to do Q1 lol
 これはひみつに決まっているやろう、言われなくてもわかるやろう。
 
 https://docs.python.org/3/tutorial/index.html

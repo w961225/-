@@ -65,6 +65,8 @@ https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.ht
 Pandas sort_values
 https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.sort_values.html
 
+https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+
 Pandas to_datetime
 https://pandas.pydata.org/pandas-docs/stable/generated/pandas.to_datetime.html#pandas.to_datetime
 

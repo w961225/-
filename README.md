@@ -36,6 +36,10 @@ https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.fillna.h
 Pandas slicing
 df[['x','y']]
 
+df[df['rank'] == 'AsstProf'][df['service']>5]
+
+df['ToPromote'] = (df['rank'] == 'AssProf')
+
 Pandas loc
 https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.loc.html
 

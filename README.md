@@ -31,6 +31,9 @@ https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.h
 Pandas fillna
 https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.fillna.html
 
+Pandas slicing
+df[['x','y']]
+
 Pandas loc
 https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.loc.html
 
